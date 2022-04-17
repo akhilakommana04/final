@@ -1,0 +1,11 @@
+
+public class Mainclass {
+	public static final String path = "D:\\final";
+	public static void main(String[] args) { 
+		Menus menu = new Menus();
+		menu.introScreen();
+		menu.mainMenu();
+	}
+
+
+}
